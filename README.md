@@ -1,2 +1,2 @@
 # odin-recipes
-Tying all learned information together by making a recipes webpage
+This is a repository containing recipes for 3 of my favorite foods. 
